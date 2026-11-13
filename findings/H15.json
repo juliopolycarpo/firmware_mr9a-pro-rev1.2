@@ -26,5 +26,7 @@
   "description": "MSR 619 and 618 read 0 and Linux exposes no DRAM RAPL subdomain, although every saved IntelSetup record in the 6 November dump has DRAM RAPL Baseline 1299=2 (Mode 1).",
   "not_established": "Mode 1 needs a measurement source the board may lack.",
   "remediation": "None yet. Test Mode 0 before any code change, C3.",
-  "evidence": []
+  "evidence": [
+    "mr9a-sensor-capture-2026-11-13"
+  ]
 }
