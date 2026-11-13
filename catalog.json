@@ -170,8 +170,8 @@
     {
       "path": "findings/D01.json",
       "kind": "finding",
-      "length": 1260,
-      "sha256": "df1946d6d197f8a58bd54be078dc895a3ea498bb08ca483a2ed8b888caaff6d8"
+      "length": 1238,
+      "sha256": "df15fda6d9ac468abaacdea20a66bbe2995542e16676cfd2236261c05499bf7d"
     },
     {
       "path": "findings/H01.json",
