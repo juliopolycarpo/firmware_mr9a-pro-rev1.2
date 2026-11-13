@@ -8,8 +8,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1720,
-      "sha256": "f3929eedc6daa78c545d508d85f855837759b99f60ddfd683c599f53402c96f5"
+      "length": 1731,
+      "sha256": "9f081baf3eacecf148f515f4ea172a3c145b28c8a681a1e22f60c0cd2273d7bd"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-no-gpu-2026-11-08.json",
@@ -282,6 +282,12 @@
       "sha256": "ef842710fd651a4812c51c462ab343afac7c19c8e9f5e043daadfb5c511c49ff"
     },
     {
+      "path": "findings/S02.json",
+      "kind": "finding",
+      "length": 964,
+      "sha256": "8afa821d8e9145acff4d900da0febc2222e161e943bcb81a92dd03e295673c50"
+    },
+    {
       "path": "patches/A02.json",
       "kind": "patch",
       "length": 3708,
@@ -388,6 +394,12 @@
       "kind": "patch",
       "length": 1182,
       "sha256": "7572a6e3423fd82529374147248e18f99f210b3c49cdf31ea571994b6b690d35"
+    },
+    {
+      "path": "patches/S02.json",
+      "kind": "patch",
+      "length": 1171,
+      "sha256": "58171928b432ea55c7b238118b9affb56e7fa59ee46d2acf6dc75966425eafce"
     },
     {
       "path": "provenance/MRC-BREADCRUMBS/mrc-breadcrumbs.asm",
