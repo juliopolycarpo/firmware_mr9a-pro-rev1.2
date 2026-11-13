@@ -27,7 +27,8 @@
   "patches": [],
   "findings": [
     "A01",
-    "A04"
+    "A04",
+    "A05"
   ],
   "evidence": []
 }
