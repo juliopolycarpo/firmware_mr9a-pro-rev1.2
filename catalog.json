@@ -8,14 +8,20 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1517,
-      "sha256": "37ffc2f74411d79b501244a38d9c6723bc3ba6d9a090c3ddd886d05f27ae609d"
+      "length": 1547,
+      "sha256": "2e7ac7f417255752635abb520eafed9d0da6830a8b566cff2a31b2f5d18d410f"
     },
     {
       "path": "evidence/mr9a-stage1-2026-11-08.json",
       "kind": "evidence",
       "length": 1708,
       "sha256": "7104797498f1a69c3e20a6989ec85ccd2d9ded108593cebbc96be716a3760aab"
+    },
+    {
+      "path": "evidence/mr9a-stage2-2026-11-08.json",
+      "kind": "evidence",
+      "length": 1799,
+      "sha256": "c56ae7c11418a846977926cc843af80a19e3b870adb81dcb7f2dc15a6db091c1"
     },
     {
       "path": "findings/A01.json",
@@ -68,20 +74,20 @@
     {
       "path": "findings/B01.json",
       "kind": "finding",
-      "length": 1045,
-      "sha256": "a20cc7f394d8cb888d71bb1b962173a9b2c6a4584259525003c08f6a733d7209"
+      "length": 1075,
+      "sha256": "d148ff7c83d9f3196049509d7e5193c4e936eff66d921e7d41be92866186949f"
     },
     {
       "path": "findings/B02.json",
       "kind": "finding",
-      "length": 872,
-      "sha256": "fae61e3cafb75eafaa0e8e53c2d8021bfea1ff2015ba6743e6997789378f4f01"
+      "length": 902,
+      "sha256": "db72042c25994bc8fc6eeebaf178edd1facefc6dc245f3cc0b1674de12a33b54"
     },
     {
       "path": "findings/B03.json",
       "kind": "finding",
-      "length": 854,
-      "sha256": "31c0da18599e6f5f5cf3b9559a399e7fa6d5b9bec8c06b8612986f22e0c66d3f"
+      "length": 884,
+      "sha256": "b5425767ab274d23b1957e7460772475d3e938de63a8d58aac09869686a024cf"
     },
     {
       "path": "findings/B04.json",
@@ -92,14 +98,14 @@
     {
       "path": "findings/B05.json",
       "kind": "finding",
-      "length": 993,
-      "sha256": "97b5bf3e29946ae2a3005353adc0158c603b54bdc02e7b44518178c10b465819"
+      "length": 1025,
+      "sha256": "9f975e7891b6d0868f5a3c0b15e1f88cfba186794d607cbb1f5ad24b387ad399"
     },
     {
       "path": "findings/B06.json",
       "kind": "finding",
-      "length": 990,
-      "sha256": "3fe693dd956fb75b267973dbbc8f71973dd67f332be2b834410415e165c2c3e1"
+      "length": 1020,
+      "sha256": "f97e9f2cec875e431f7dbb56be88d46e5ee1944c276dbe418a812112395fe23a"
     },
     {
       "path": "findings/B07.json",
@@ -122,14 +128,14 @@
     {
       "path": "findings/B10.json",
       "kind": "finding",
-      "length": 2513,
-      "sha256": "88dd55ca80b0aa285900e75089ebb4b1920d22f302633135d1dc461e848d0a2a"
+      "length": 2545,
+      "sha256": "1a91f5fceb7c2c0fe6a332924680b02f9bfab5bc6a754fcfc4963f55854f2a1d"
     },
     {
       "path": "findings/B11.json",
       "kind": "finding",
-      "length": 2625,
-      "sha256": "e8a63080ccbd3fe34696026eed5e717cb4b4650a945f2a0ca7cd83adb133c1fe"
+      "length": 2657,
+      "sha256": "4bd08123b98112df6ac1b87a6cb139d93db8c039f64ef8c5341ee3ad68865277"
     },
     {
       "path": "findings/B12.json",
@@ -236,8 +242,8 @@
     {
       "path": "findings/R01.json",
       "kind": "finding",
-      "length": 905,
-      "sha256": "b6518e9b6db0de93cf28259cc8a51fe5ef287d62228c06823c507a09d3d0c57d"
+      "length": 937,
+      "sha256": "525cd754287d30720886cc5d978970291d3b635a967d2a136c1cd4d51eacd5a4"
     },
     {
       "path": "findings/R02.json",
