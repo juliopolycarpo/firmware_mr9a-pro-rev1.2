@@ -8,8 +8,14 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1587,
-      "sha256": "7c7e2d16c4a6223fe2ad0a99cbc873eca806f9073d7f1a51da54d658f8c61996"
+      "length": 1629,
+      "sha256": "2395dd2a95564be1a281f11c9df7692108ee9330de3b422a124949c2dd4f1d79"
+    },
+    {
+      "path": "evidence/mr9a-breadcrumbs-no-ram-2026-11-08.json",
+      "kind": "evidence",
+      "length": 1664,
+      "sha256": "6c546bae2c9f404dc197e144d2b733639a58ef0fa927ee4d400b38692b39f04a"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-rev2-2026-11-08.json",
@@ -80,20 +86,20 @@
     {
       "path": "findings/B01.json",
       "kind": "finding",
-      "length": 1115,
-      "sha256": "445f6113c878f56003f3d02c7163d13b3f8473001791e5512d1d713086c432dd"
+      "length": 1157,
+      "sha256": "522dc05c1bc6ae2ed0b5925de42a65c05207f7e596bccacf5267316994694754"
     },
     {
       "path": "findings/B02.json",
       "kind": "finding",
-      "length": 942,
-      "sha256": "f022f95e6e48d549b546bd895d29a42b19b1ac6a539a0a9ffb337ead2e33fb93"
+      "length": 984,
+      "sha256": "3f98501ef7f56ca659fcbe3c414ad39cf5085369c9995001bc505ab75f0f3f40"
     },
     {
       "path": "findings/B03.json",
       "kind": "finding",
-      "length": 924,
-      "sha256": "2830957ce794783f622745863dbbe9d0df24af845a100a61222dc3ade0408f1b"
+      "length": 966,
+      "sha256": "9b59b1f1c2cd11eb4b2c3163f1075c7db5b55842e30835276e46e2d416f30481"
     },
     {
       "path": "findings/B04.json",
@@ -104,14 +110,14 @@
     {
       "path": "findings/B05.json",
       "kind": "finding",
-      "length": 1065,
-      "sha256": "bf47edfad4b7ef2a273ae750e24dc246a36cfd3c17a7e6df36ba3494669cb864"
+      "length": 1107,
+      "sha256": "050885621107354f408b5e27e78fe4414cb2488c5bd8235e0230c9b91551d8dc"
     },
     {
       "path": "findings/B06.json",
       "kind": "finding",
-      "length": 1060,
-      "sha256": "a94b95459146efd053a3075f709c5afe3bde4e9f157ecca014d89fdefc2bba49"
+      "length": 1102,
+      "sha256": "354facac609c876fa10e37e45e0df25ebb07bdf65ae105d8772ae3674e0bf511"
     },
     {
       "path": "findings/B07.json",
@@ -134,14 +140,14 @@
     {
       "path": "findings/B10.json",
       "kind": "finding",
-      "length": 2585,
-      "sha256": "654198e316c90a9c2772f3430b7c5484791e86e014ee3c23bd89d5259585e73f"
+      "length": 2627,
+      "sha256": "18dbd28f8985ce5d7abbcbdcadc5810327b13eea98c0b6689da1d4caf62618e1"
     },
     {
       "path": "findings/B11.json",
       "kind": "finding",
-      "length": 2697,
-      "sha256": "a9084bc2c0ed42ed5af7ba97fd05380b2c54711eea7c8c05fff81b523b8a5140"
+      "length": 2739,
+      "sha256": "1568651c0946c7dbdbf9bf7eb5422ce7b13ddc102d40cd82c29ff2725a18a4e1"
     },
     {
       "path": "findings/B12.json",
@@ -248,8 +254,8 @@
     {
       "path": "findings/R01.json",
       "kind": "finding",
-      "length": 977,
-      "sha256": "7259e7ea9d28a919b22559bf28568c13411a4bb3554242733a064f3d52fc27af"
+      "length": 1019,
+      "sha256": "3a090a54a8abbb6a8e7193699aaefa0a151d97051c17053f85b1cab21ea3c542"
     },
     {
       "path": "findings/R02.json",
