@@ -34,6 +34,7 @@
   "not_established": "No real exit client or physical failure is established.",
   "remediation": "Separate 34-byte-difference PE candidates return EFI_UNSUPPORTED for exit requests and free the unused record. C1 local, C2 physical validation. Entry and power-button controls pass.",
   "evidence": [
+    "mr9a-breadcrumbs-rev2-2026-11-08",
     "mr9a-stage2-2026-11-08"
   ],
   "patches": [
