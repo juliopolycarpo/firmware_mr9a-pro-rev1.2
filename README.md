@@ -22,6 +22,14 @@ bme patch dump.bin --recommended --catalog . --allow-unsigned-local
 
 The Machinist PR9 (B85) ships a build of the same X99-derived AMI code base, so most defects exist on both boards. A shared defect keeps one id in both repositories: `firmware_pr9-b85` records it with the same finding text and its own patch variant. A finding whose `affects.label` is `Both` is shared. The catalog bundled with `bme` holds the records of both boards.
 
+`bme` checks that the two repositories agree on every shared record, and fails with the record, the field and both values when they differ:
+
+```sh
+bme catalog merge . ../firmware_pr9-b85 --check
+```
+
+The catalog part of this repository equals what `bme catalog split official --board machinist-mr9a-pro-q87-rev-1.2` writes from the bundled catalog. A record added here reaches the bundled catalog through `bme catalog merge`.
+
 ## Layout
 
 | Path | Holds | In git |
