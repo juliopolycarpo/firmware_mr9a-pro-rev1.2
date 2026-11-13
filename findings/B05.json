@@ -32,6 +32,7 @@
   "not_established": "Earlier SEC behavior is outside the patch.",
   "remediation": "Two-module per-board GEN_RST guard candidates. C2 for the hardware repair.",
   "evidence": [
+    "mr9a-breadcrumbs-no-gpu-2026-11-08",
     "mr9a-breadcrumbs-no-ram-2026-11-08",
     "mr9a-breadcrumbs-rev2-2026-11-08",
     "mr9a-stage2-2026-11-08"
