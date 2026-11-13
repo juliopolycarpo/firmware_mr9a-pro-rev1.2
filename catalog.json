@@ -8,8 +8,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1040,
-      "sha256": "accbfdc855db788bc1f2cef56236088f7ae8c62ab04a05963e6258ef9b837259"
+      "length": 1051,
+      "sha256": "41e16ccff5bc2646e806529b4cc949445b3cfe3ebbf64ad6e64293169eed826a"
     },
     {
       "path": "findings/A01.json",
@@ -118,6 +118,12 @@
       "kind": "finding",
       "length": 1353,
       "sha256": "173662048d7656ae4624e87af7b2696810b7d07b1c30b6332643ab9bd467cb77"
+    },
+    {
+      "path": "findings/H15.json",
+      "kind": "finding",
+      "length": 809,
+      "sha256": "14dd78375687b70eb48d7990085a388f698adb36ef090fb3d50285a25812992e"
     }
   ]
 }
