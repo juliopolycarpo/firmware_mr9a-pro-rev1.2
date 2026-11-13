@@ -1,0 +1,39 @@
+{
+  "schema": "bme.patch/1",
+  "id": "S01",
+  "version": "1.0.0",
+  "title": "Skip PR9's cold-boot ME/UMA completion notification on S3 restoration",
+  "class": "correction",
+  "tier": "optional",
+  "findings": [
+    "S01"
+  ],
+  "fixes": [
+    "S01"
+  ],
+  "confidence": {
+    "findings": {
+      "S01": "C2"
+    },
+    "offline_fix": "C2",
+    "physical_fix": "C2"
+  },
+  "packing": "automatic",
+  "requires": [],
+  "supersedes": [],
+  "conflicts": [],
+  "limits": "PR9 resume hypothesis, C2. Preserves the ordinary-boot call. New stub extends VirtualSize inside existing raw padding. The failed resume has not been traced reaching the helper.",
+  "provenance": {
+    "repository": "https://github.com/juliopolycarpo/x99-bios-fixes",
+    "commit": "765e7a80ae8337c0953dc0da41de5f28b56c5c92",
+    "path": "patches/S01.json",
+    "sha256": "47252f341dde5136c5a2fd146f7b476b148821a98b275e86baf317546a9cef80",
+    "note": "converted by `bme catalog import-x99fix`; hunks and hashes copied verbatim"
+  },
+  "variants": {
+    "mnx99mr9apro-230322": {
+      "status": "not-applicable",
+      "reason": "The MR9A source already excludes this ME helper during S3 restoration."
+    }
+  }
+}
