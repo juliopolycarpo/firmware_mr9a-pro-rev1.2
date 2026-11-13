@@ -8,8 +8,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1130,
-      "sha256": "a115b5ba3f65b40505d174765631f10bb8d58b8aacd8d56cf17d51e63a4a71ff"
+      "length": 1167,
+      "sha256": "6993dc2622f7c6ea30b72f6349ef39dab0050ee743cc80983346efc0a2169aeb"
     },
     {
       "path": "findings/A01.json",
@@ -58,6 +58,18 @@
       "kind": "finding",
       "length": 1055,
       "sha256": "549fbe1429baffd2b8b306493c42e74ef098fd0127d604fba95e4322ecd5fb0c"
+    },
+    {
+      "path": "findings/B01.json",
+      "kind": "finding",
+      "length": 990,
+      "sha256": "8f47d039b16ebc3ee57ff177e1aa55b11bb63e80b710f2b2cd2ea2e87cd3df9a"
+    },
+    {
+      "path": "findings/B06.json",
+      "kind": "finding",
+      "length": 935,
+      "sha256": "1c7ed44a7c86d7df2d3c36ede1d6b30b907a1095987395acd82c958a8561352f"
     },
     {
       "path": "findings/B12.json",
@@ -166,6 +178,12 @@
       "kind": "patch",
       "length": 16931,
       "sha256": "cbaad1fb2b9f9e4c36136d9bbda7a99a82894e2f08c81d72c45cefbad87b3fbb"
+    },
+    {
+      "path": "patches/B01-B06.json",
+      "kind": "patch",
+      "length": 14015,
+      "sha256": "3c72f62fd9108ae7e83df40bcce1b3eddab70468d6d917cc550f02e332d4ec68"
     }
   ]
 }
