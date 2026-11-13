@@ -8,8 +8,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1463,
-      "sha256": "645daf1d43885301aae93141c6d73e812cef9ed963ee0133068c5cc06b91bcc6"
+      "length": 1485,
+      "sha256": "bc787bc8fba05131039e613f91a9bc15dfa2acfbfafb2129f1b0c36864f39d90"
     },
     {
       "path": "findings/A01.json",
@@ -228,6 +228,12 @@
       "sha256": "14dd78375687b70eb48d7990085a388f698adb36ef090fb3d50285a25812992e"
     },
     {
+      "path": "findings/R01.json",
+      "kind": "finding",
+      "length": 905,
+      "sha256": "b6518e9b6db0de93cf28259cc8a51fe5ef287d62228c06823c507a09d3d0c57d"
+    },
+    {
       "path": "findings/R02.json",
       "kind": "finding",
       "length": 1030,
@@ -328,6 +334,12 @@
       "kind": "patch",
       "length": 5566,
       "sha256": "2473b5587252b975dc42599e5f9cd0df3381f222de721388926c3e0ef3a717db"
+    },
+    {
+      "path": "patches/R01.json",
+      "kind": "patch",
+      "length": 6644,
+      "sha256": "403c6c8167dd57da261ca55db34d930c9e21256158bf980578b97ff025dfbd69"
     },
     {
       "path": "provenance/MRC-BREADCRUMBS/mrc-breadcrumbs.asm",

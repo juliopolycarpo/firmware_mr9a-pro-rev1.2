@@ -40,7 +40,8 @@
     "H01",
     "H02",
     "H05",
-    "MRC-BREADCRUMBS"
+    "MRC-BREADCRUMBS",
+    "R01"
   ],
   "findings": [
     "A01",
@@ -79,6 +80,7 @@
     "H13",
     "H14",
     "H15",
+    "R01",
     "R02"
   ],
   "evidence": []
