@@ -25,6 +25,8 @@
     }
   ],
   "patches": [],
-  "findings": [],
+  "findings": [
+    "A01"
+  ],
   "evidence": []
 }
