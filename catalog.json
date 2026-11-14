@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "title": "Machinist E5-MR9A PRO V1.2 (Q87) firmware",
   "engine": "^0.1",
+  "repository": "https://github.com/juliopolycarpo/firmware_mr9a-pro-rev1.2",
   "files": [
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
