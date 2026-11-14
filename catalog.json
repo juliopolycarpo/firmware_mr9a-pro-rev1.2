@@ -9,8 +9,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 1731,
-      "sha256": "9f081baf3eacecf148f515f4ea172a3c145b28c8a681a1e22f60c0cd2273d7bd"
+      "length": 2257,
+      "sha256": "99d59e0c9e869f4cadfb1c6479e2ae7bedf8fd419027677d3ef6006c6fcf7fc2"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-no-gpu-2026-11-08.json",
