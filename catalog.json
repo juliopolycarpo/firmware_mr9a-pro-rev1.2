@@ -9,8 +9,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 2291,
-      "sha256": "b937cc4e98359763a2008bb38e9f61f4257f5c0f3ce16819e2d76585ec2243f8"
+      "length": 2335,
+      "sha256": "d381c07860511a7cf03b5920c851595df8a340cbf98b4720652343f85d19886c"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-no-gpu-2026-11-08.json",
@@ -47,6 +47,12 @@
       "kind": "evidence",
       "length": 1799,
       "sha256": "c56ae7c11418a846977926cc843af80a19e3b870adb81dcb7f2dc15a6db091c1"
+    },
+    {
+      "path": "evidence/mr9a-x9r9a-b02-b03-review-2026-11-13.json",
+      "kind": "evidence",
+      "length": 2170,
+      "sha256": "e5d094200d5c20fc846a33e65d084a3eb0d6735dd854a34f585f2820c5a24df8"
     },
     {
       "path": "evidence/mr9a-x9r9a-scan-2026-11-13.json",
@@ -111,14 +117,14 @@
     {
       "path": "findings/B02.json",
       "kind": "finding",
-      "length": 1100,
-      "sha256": "2a2c3d98b27651bdf5105237e89d9ec889eb0a4048a84e1d4fcf7536f033373e"
+      "length": 1144,
+      "sha256": "24ad6a7fe550cd4503bef63ad26bed39c6268638088ff91e090ed60330690c83"
     },
     {
       "path": "findings/B03.json",
       "kind": "finding",
-      "length": 1082,
-      "sha256": "06f078f8d50f6a2215517b6fddaa1a020c022634d14f9718435dd80c671bfb43"
+      "length": 1126,
+      "sha256": "84742f247efc80e9504ac9c51dbdf7554e1ae289258d062df015476fabcd7d2c"
     },
     {
       "path": "findings/B04.json",
@@ -327,8 +333,8 @@
     {
       "path": "patches/B02-B03.json",
       "kind": "patch",
-      "length": 5633,
-      "sha256": "db26b35118c4ee2a1b55e6bb455745d9940107d7413a8f925193ee2c1ff2e569"
+      "length": 10186,
+      "sha256": "abb8f4769ddeec7469691e18826376624e585bb36acfbda2057d177a44c2dd8b"
     },
     {
       "path": "patches/B05.json",
