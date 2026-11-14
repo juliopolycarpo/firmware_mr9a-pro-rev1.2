@@ -9,8 +9,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 2682,
-      "sha256": "98ba746daef16ec8c64a5210a051fc7b02726695dd5258c60c304e9386839569"
+      "length": 2738,
+      "sha256": "3b3e0d364c54cf69364361e7c538da7d198dbf71d51115ee2b1621b69b6c1d98"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-no-gpu-2026-11-08.json",
@@ -71,6 +71,12 @@
       "kind": "evidence",
       "length": 1687,
       "sha256": "d3c50ce6537c1d292d922c494ad1530c663c4bd3dc433f9d240e0d1b079dd1b3"
+    },
+    {
+      "path": "evidence/mr9a-x9r9a-smbios-identity-2026-11-14.json",
+      "kind": "evidence",
+      "length": 2078,
+      "sha256": "89d917873f3b3d765c63a21dd9f002ab5b47d12b290cd32ba9ee054ce11ae0b7"
     },
     {
       "path": "findings/A01.json",
