@@ -9,8 +9,8 @@
     {
       "path": "boards/machinist-mr9a-pro-q87-rev-1.2.json",
       "kind": "board",
-      "length": 2257,
-      "sha256": "99d59e0c9e869f4cadfb1c6479e2ae7bedf8fd419027677d3ef6006c6fcf7fc2"
+      "length": 2291,
+      "sha256": "b937cc4e98359763a2008bb38e9f61f4257f5c0f3ce16819e2d76585ec2243f8"
     },
     {
       "path": "evidence/mr9a-breadcrumbs-no-gpu-2026-11-08.json",
@@ -49,6 +49,12 @@
       "sha256": "c56ae7c11418a846977926cc843af80a19e3b870adb81dcb7f2dc15a6db091c1"
     },
     {
+      "path": "evidence/mr9a-x9r9a-scan-2026-11-13.json",
+      "kind": "evidence",
+      "length": 1687,
+      "sha256": "d3c50ce6537c1d292d922c494ad1530c663c4bd3dc433f9d240e0d1b079dd1b3"
+    },
+    {
       "path": "findings/A01.json",
       "kind": "finding",
       "length": 785,
@@ -57,8 +63,8 @@
     {
       "path": "findings/A02.json",
       "kind": "finding",
-      "length": 1434,
-      "sha256": "d5739ba75f849163465a38e964c7225feae2d1a51e5470305aac3a37a50b864c"
+      "length": 1516,
+      "sha256": "e8e7ca3c651a9ee1a28280bee06f21a8804edc613ac2298b92799cd485c609e7"
     },
     {
       "path": "findings/A03.json",
@@ -99,20 +105,20 @@
     {
       "path": "findings/B01.json",
       "kind": "finding",
-      "length": 1211,
-      "sha256": "8375a28aa51262d1bec0c69d8362f37fcd558c90d95cf4260406df0891448e76"
+      "length": 1273,
+      "sha256": "542cc8fb2deba37b2c16dc884898eb7099d9ab1abddc533d52724ac312bcb2ed"
     },
     {
       "path": "findings/B02.json",
       "kind": "finding",
-      "length": 1038,
-      "sha256": "e94ca69909b11511000d7e605b24d3822aaf13cf2a07117df6e9698986d03038"
+      "length": 1100,
+      "sha256": "2a2c3d98b27651bdf5105237e89d9ec889eb0a4048a84e1d4fcf7536f033373e"
     },
     {
       "path": "findings/B03.json",
       "kind": "finding",
-      "length": 1020,
-      "sha256": "c85d3d856e896303b6a83d95d594ce1ef38efdb2659219d40f34e94866658003"
+      "length": 1082,
+      "sha256": "06f078f8d50f6a2215517b6fddaa1a020c022634d14f9718435dd80c671bfb43"
     },
     {
       "path": "findings/B04.json",
@@ -129,8 +135,8 @@
     {
       "path": "findings/B06.json",
       "kind": "finding",
-      "length": 1156,
-      "sha256": "05c701db8420fc02036105b5d58bd98940a45ee1df189ea5cb3c73fa794cd8f7"
+      "length": 1218,
+      "sha256": "606d55df4b8a664d017eeb67e450a04ad279e5d12d2f4e97b87253db55148c7a"
     },
     {
       "path": "findings/B07.json",
@@ -141,26 +147,26 @@
     {
       "path": "findings/B08.json",
       "kind": "finding",
-      "length": 988,
-      "sha256": "bad27241a37e00b632ee823d83438fe067cf266f08a92d709ae869bfb84d5b62"
+      "length": 1070,
+      "sha256": "44641b8bf727347257d8eef3c4694607b71b6e67a08c79ebeaa628eb2cd60cd7"
     },
     {
       "path": "findings/B09.json",
       "kind": "finding",
-      "length": 2483,
-      "sha256": "2b658d84c35a8be31c5ada95cee96137b409c364b899d45eece30e9022a42201"
+      "length": 2565,
+      "sha256": "14a0f5079cd0753b93cd5ef6473f8c0653ce49a3befdf06847be105434e0c201"
     },
     {
       "path": "findings/B10.json",
       "kind": "finding",
-      "length": 2681,
-      "sha256": "f03aec177d5b94fa5a26a5537faa7588336cf3dffe1445470841c40852c776dd"
+      "length": 2743,
+      "sha256": "e7946e6294b0adebc34c336b3bddb2b0ad61dae76bc277a597a7bea6bf3420a8"
     },
     {
       "path": "findings/B11.json",
       "kind": "finding",
-      "length": 2793,
-      "sha256": "19c19b0f634afbc5fb06619b2375d8c66f9ed571e58cc9e81d4510fbce2611f8"
+      "length": 2855,
+      "sha256": "1fea85025023f8c16047a2960fd2dcbc4de270e6bc6791b3fca7c6cc8eec4d61"
     },
     {
       "path": "findings/B12.json",
@@ -177,14 +183,14 @@
     {
       "path": "findings/H01.json",
       "kind": "finding",
-      "length": 828,
-      "sha256": "5f6701d716f033b27ca91b7e2c34bbc4feabf54d5ea47be4357f757aea38b06e"
+      "length": 910,
+      "sha256": "5e906e2b3b55fd4883ca676e6d3a658be82b1c8edb288d474c98031ecef72049"
     },
     {
       "path": "findings/H02.json",
       "kind": "finding",
-      "length": 1057,
-      "sha256": "10e60ded4417f5b7523e87d9afbf1bacfe8e4e0d663a2d1e4ff5d89cbe371693"
+      "length": 1139,
+      "sha256": "03bea436cb9e9b05f7c773172ebda54421d502552857d69d822183a69f17ec58"
     },
     {
       "path": "findings/H03.json",
@@ -201,8 +207,8 @@
     {
       "path": "findings/H05.json",
       "kind": "finding",
-      "length": 1090,
-      "sha256": "6c0d64936bbf1d4247ffb30b283456b3d3a022f7f882c5d4e04ff5c66b6b54ec"
+      "length": 1172,
+      "sha256": "39e31022826da89998670b7da987a01ed5a3603717749aab9cd6009208bdc108"
     },
     {
       "path": "findings/H06.json",
@@ -267,8 +273,8 @@
     {
       "path": "findings/R01.json",
       "kind": "finding",
-      "length": 1073,
-      "sha256": "efd1ecf83103432d4c8fb9e47c0fa734eb66960142a97d53d52058e69d829cd0"
+      "length": 1135,
+      "sha256": "d9aef99e13cd7be28ffd00cd8e4a1ab5af1c33569cbf1e463ff9e27eb3b65046"
     },
     {
       "path": "findings/R02.json",

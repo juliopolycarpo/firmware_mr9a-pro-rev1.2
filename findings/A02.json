@@ -7,7 +7,8 @@
   "affects": {
     "label": "MR9A PRO and PR9",
     "builds": [
-      "mnx99mr9apro-230322"
+      "mnx99mr9apro-230322",
+      "x9r9a-003-20231110"
     ]
   },
   "owner": {
@@ -27,6 +28,9 @@
   "description": "A logical AND tests the register for nonzero instead of testing the PME bit. It is dormant at the inventoried DSDT/SSDT call sites.",
   "not_established": "No whole-ROM packaging or hardware effect is established.",
   "remediation": "Exact-method, length-preserving AML corrections and ACPICA replay. C1.",
+  "evidence": [
+    "mr9a-x9r9a-scan-2026-11-13"
+  ],
   "patches": [
     "A02"
   ],
